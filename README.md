@@ -1,4 +1,3 @@
-
 This package implements a simple approach for detecting anomalies in time
 series metrics using Median Absolute Deviation (MAD) based z-scores.
 
