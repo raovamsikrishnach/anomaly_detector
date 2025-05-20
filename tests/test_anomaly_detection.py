@@ -2,7 +2,7 @@ import unittest
 import pandas as pd
 import numpy as np
 
-from anomaly_detection import MetricCleaner, MADZScoreDetector
+from anomaly_detector import MetricCleaner, MADZScoreDetector
 
 
 class TestMetricCleaner(unittest.TestCase):
