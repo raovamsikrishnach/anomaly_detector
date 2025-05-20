@@ -17,10 +17,13 @@ Two helper classes are provided:
   data frames.
 - `MADZScoreDetector` calculates MAD-based z-scores and identifies anomalies.
 
-Run the example script to see the detector in action:
+Run the example script or execute the package directly to see the detector in
+action:
 
 ```bash
 python examples/simple_example.py
+# or
+python -m anomaly_detector
 ```
 
-This prints the top anomalies and opens an interactive Plotly graph.
+Both commands print the top anomalies and open an interactive Plotly graph.
